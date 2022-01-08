@@ -1,0 +1,3 @@
+INSERT INTO currency_exchange (id, currency_from, currency_to, conversion_multiple, environment) VALUES (1, 'USD', 'NGN', '570', '');
+INSERT INTO currency_exchange (id, currency_from, currency_to, conversion_multiple, environment) VALUES (2, 'GBP', 'NGN', '760', '');
+INSERT INTO currency_exchange (id, currency_from, currency_to, conversion_multiple, environment) VALUES (3, 'EUR', 'NGN', '650', '');
